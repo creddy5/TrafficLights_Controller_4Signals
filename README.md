@@ -1,2 +1,2 @@
 # TrafficLights_Controller_4Signals
-Verilog Code for Traffic Light Controller (basic)
+This Verilog Code for a Traffic Light Controller (basic) with 4 lights
