@@ -1,10 +1,14 @@
 # TrafficLights_Controller_4Signals
 
 This Verilog module traffic_light_4 simulates a 4-way traffic light controller using a Finite State Machine (FSM).
+
 Each direction (North-South, South-North, East-West, and West-East) is assigned a traffic light that cycles through Green → Yellow → Red with specific time delays.
+
 The design ensures that only one direction (or its opposite) is Green or Yellow at a time, while others remain Red, mimicking a real-world traffic signal system.
 
 ====================================================================================================================================================================
+
+
 Inputs: 
 | Signal    | Type  | Description                                                                      |
 | --------- | ----- | -------------------------------------------------------------------------------- |
